@@ -5,7 +5,7 @@
 * Bu projede müzik dinleme platformu olan Spotify üzerinden veri analizi yapılmıştır.
 * Exploratory Data Analysis yapılmıştır :
   
-  * Outliers verilerini winsorize yöntemini uygulayarak sütunlar arasındaki korelasyon iyileştirilmiştir.
+  * Outliers verilerine winsorize yöntemini uygulayarak sütunlar arasındaki korelasyon iyileştirilmiştir.
   * Key sütununa one-hot encoding uygulanmıştır.
   * Key ve BPM arasındaki ilişkiye bakılmıştır
  
