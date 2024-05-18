@@ -8,9 +8,12 @@
   * Outliers verilerini winsorize yöntemini uygulayarak sütunlar arasındaki korelasyon iyileştirilmiştir.
   * Key sütununa one-hot encoding uygulanmıştır.
   * Key ve BPM arasındaki ilişkiye bakılmıştır
+ 
+
 
 Bu kodu indirip kullanmak isteyenler aşağıdaki path kısmına
-<p> Bilgisayarda spotify-2023.csv dosyasının yolunu kopyalıyıp yapıştırması yeterli
+Bilgisayarda spotify-2023.csv dosyasının yolunu kopyalıyıp yapıştırması yeterli
+
 >df = pd.read_csv('//content/drive/MyDrive/Data/spotify-2023.csv', encoding='latin1')
 
 
