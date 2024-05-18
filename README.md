@@ -1,5 +1,5 @@
 # Most Streamed Spotify Songs 2023
-![Spotify_Logo_CMYK_Black](https://github.com/ozaneermis/Spotify-2023/assets/74829981/1ae575b3-d26c-4012-9816-81568709de8a)
+![Spotify_Logo_CMYK_Green](https://github.com/ozaneermis/Spotify-2023/assets/74829981/3a6f1419-b1da-4ad2-87ce-edfd92dbdf4f)
 
 Bu veri kümesi, Spotify'da listelenen 2023'ün en ünlü şarkılarının bir listesini içerir. 
 
